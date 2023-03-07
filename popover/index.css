@@ -1,0 +1,30 @@
+#profile{
+    
+    width: 150px;
+    margin: auto;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:150px;
+   
+}
+
+#profile img{
+   
+width: 100%;
+height: 150px;
+border-radius: 80%;
+cursor: pointer;
+}
+
+#pop{
+    font-weight: 900;
+    width: 20%;
+margin: auto;
+text-align: center;
+background-color: aqua;
+display: none;
+position: absolute;
+right: 0;
+}
