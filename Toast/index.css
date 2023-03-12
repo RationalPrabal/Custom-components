@@ -25,13 +25,12 @@ animation-name: travel;
 animation-duration: 2s;
 }
 
-@keyframes travel{
+/* @keyframes travel{
 0%{
-    top: 0;
+    bottom: 0;
 
-}
+} */
 
-100%{
-    top: 50%;
-}
-}
+/* 100%{
+bottom: 50%;
+} }*/
